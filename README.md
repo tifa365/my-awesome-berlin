@@ -10,6 +10,7 @@ This is a refined subset of [awesome-berlin-data](https://github.com/tifa365/awe
 
 - [Art & Street Culture](#art--street-culture)
 - [Education & Schools](#education--schools)
+- [Environment & Nature](#environment--nature)
 
 ------------------------------
 
@@ -22,6 +23,12 @@ This is a refined subset of [awesome-berlin-data](https://github.com/tifa365/awe
 ## Education & Schools
 
 - [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states (including Berlin), providing a unified data format.
+
+------------------------------
+
+## Environment & Nature
+
+- [Berliner Trinkbrunnen Analyse](https://github.com/tifa365/berliner_trinkbrunnen_analyse) - Interactive maps analyzing Berlin's drinking fountains. Compares data from Berliner Wasserbetriebe (BWB) with OpenStreetMap, providing detailed analysis and visualization of public water fountain locations across the city.
 
 ------------------------------
 
