@@ -11,6 +11,7 @@ This is a refined subset of [awesome-berlin-data](https://github.com/tifa365/awe
 - [Art & Street Culture](#art--street-culture)
 - [Education & Schools](#education--schools)
 - [Environment & Nature](#environment--nature)
+- [Open Data Tools & APIs](#open-data-tools--apis)
 
 ------------------------------
 
@@ -29,6 +30,12 @@ This is a refined subset of [awesome-berlin-data](https://github.com/tifa365/awe
 ## Environment & Nature
 
 - [Berliner Trinkbrunnen Analyse](https://github.com/tifa365/berliner_trinkbrunnen_analyse) - Interactive maps analyzing Berlin's drinking fountains. Compares data from Berliner Wasserbetriebe (BWB) with OpenStreetMap, providing detailed analysis and visualization of public water fountain locations across the city.
+
+------------------------------
+
+## Open Data Tools & APIs
+
+- [Berlin Open Data Metadata Quality Assessment](https://github.com/tifa365/berlin_opendata_assesment) - Python tool that evaluates metadata quality of Berlin's Open Data Portal using FAIR principles (Findable, Accessible, Interoperable, Reusable). Based on opendata.swiss methodology, adapted for Berlin's DCAT-AP.de schema. Generates quality scores and ratings across five dimensions.
 
 ------------------------------
 
