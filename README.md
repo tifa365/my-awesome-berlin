@@ -1,4 +1,4 @@
-# My Awesome Berlin Data
+# My Awesome Berlin Data [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ##### My personal curated collection of the most important open data sources, APIs, and resources for Berlin.
 
