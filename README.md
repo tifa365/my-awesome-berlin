@@ -36,6 +36,7 @@ This is a refined subset of [awesome-berlin-data](https://github.com/tifa365/awe
 ## Open Data Tools & APIs
 
 - [Berlin Open Data Metadata Quality Assessment](https://github.com/tifa365/berlin_opendata_assesment) - Python tool that evaluates metadata quality of Berlin's Open Data Portal using FAIR principles (Findable, Accessible, Interoperable, Reusable). Based on opendata.swiss methodology, adapted for Berlin's DCAT-AP.de schema. Generates quality scores and ratings across five dimensions.
+- [Berlin Open Data Starter Code](https://github.com/tifa365/starter-code-open_data_berlin) - Preconfigured Python Jupyter Notebooks and R Markdown files for all CSV datasets on Berlin Open Data Portal. Each file comes with metadata, descriptions, data links, and starter code. One-click opening in Google Colab supported.
 
 ------------------------------
 
