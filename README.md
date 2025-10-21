@@ -17,26 +17,26 @@ This is a refined subset of [awesome-berlin-data](https://github.com/tifa365/awe
 
 ## Art & Street Culture
 
-- [Berlin Club History](https://github.com/tifa365/berlin_club_history) - Dataset of 106 closed/historic nightclubs and music venues in Berlin from the late 1960s through 2020. Includes GPS coordinates, addresses, years of operation, music genres, and historical context.
+- 🎵 [Berlin Club History](https://github.com/tifa365/berlin_club_history) - Dataset of 106 closed/historic nightclubs and music venues in Berlin from the late 1960s through 2020. Includes GPS coordinates, addresses, years of operation, music genres, and historical context.
 
 ------------------------------
 
 ## Education & Schools
 
-- [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states (including Berlin), providing a unified data format.
+- 🏫 [jedeschule-scraper](https://github.com/Datenschule/jedeschule-scraper) - Scrapers for German school data across all federal states (including Berlin), providing a unified data format.
 
 ------------------------------
 
 ## Environment & Nature
 
-- [Berliner Trinkbrunnen Analyse](https://github.com/tifa365/berliner_trinkbrunnen_analyse) - Interactive maps analyzing Berlin's drinking fountains. Compares data from Berliner Wasserbetriebe (BWB) with OpenStreetMap, providing detailed analysis and visualization of public water fountain locations across the city.
+- ⛲ [Berliner Trinkbrunnen Analyse](https://github.com/tifa365/berliner_trinkbrunnen_analyse) - Interactive maps analyzing Berlin's drinking fountains. Compares data from Berliner Wasserbetriebe (BWB) with OpenStreetMap, providing detailed analysis and visualization of public water fountain locations across the city.
 
 ------------------------------
 
 ## Open Data Tools & APIs
 
-- [Berlin Open Data Metadata Quality Assessment](https://github.com/tifa365/berlin_opendata_assesment) - Python tool that evaluates metadata quality of Berlin's Open Data Portal using FAIR principles (Findable, Accessible, Interoperable, Reusable). Based on opendata.swiss methodology, adapted for Berlin's DCAT-AP.de schema. Generates quality scores and ratings across five dimensions.
-- [Berlin Open Data Starter Code](https://github.com/tifa365/starter-code-open_data_berlin) - Preconfigured Python Jupyter Notebooks and R Markdown files for all CSV datasets on Berlin Open Data Portal. Each file comes with metadata, descriptions, data links, and starter code. One-click opening in Google Colab supported.
+- ✅ [Berlin Open Data Metadata Quality Assessment](https://github.com/tifa365/berlin_opendata_assesment) - Python tool that evaluates metadata quality of Berlin's Open Data Portal using FAIR principles (Findable, Accessible, Interoperable, Reusable). Based on opendata.swiss methodology, adapted for Berlin's DCAT-AP.de schema. Generates quality scores and ratings across five dimensions.
+- 🚀 [Berlin Open Data Starter Code](https://github.com/tifa365/starter-code-open_data_berlin) - Preconfigured Python Jupyter Notebooks and R Markdown files for all CSV datasets on Berlin Open Data Portal. Each file comes with metadata, descriptions, data links, and starter code. One-click opening in Google Colab supported.
 
 ------------------------------
 
